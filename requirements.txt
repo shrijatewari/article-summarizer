@@ -1,9 +1,7 @@
 streamlit
-transformers
-torch
-pytesseract
+yake
+PyPDF2
 pdf2image
-Pillow
-numpy
-scikit-learn
-requests
+pytesseract
+pillow
+poppler-utils
