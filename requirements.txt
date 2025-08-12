@@ -1,7 +1,10 @@
 streamlit
 yake
+transformers
+torch
+sentencepiece
+yake
 PyPDF2
 pdf2image
 pytesseract
 pillow
-poppler-utils
